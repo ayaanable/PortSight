@@ -49,8 +49,8 @@ def divider(width=48):
 def show_banner():
     print()
     print("╭──────────────────────────────────────╮")
-    print("│              PortSight              │")
-    print("│         TCP Port Scanner            │")
+    print("│              PortSight               │")
+    print("│         TCP Port Scanner             │")
     print("╰──────────────────────────────────────╯")
     print()
     print(f" Default Range : {START_PORT}-{END_PORT}")
